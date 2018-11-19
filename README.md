@@ -23,4 +23,8 @@ $ npm run build
 
 プロダクション向けビルドを行うと、 `/public` に公開用のリソースが全て揃います。
 
-`/public` をデプロイし、静的サイトして運用出来ます。
+`/public` をデプロイし、静的サイトして運用出来ます。  
+
+# Deploy to Netlify
+<!-- Markdown snippet -->
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/MozyOk/static-site-boilerplate)
